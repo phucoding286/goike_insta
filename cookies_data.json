@@ -1,0 +1,109 @@
+{
+    "golike_headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3Mjc5Mjk1OTYsImV4cCI6MTc1OTQ2NTU5NiwibmJmIjoxNzI3OTI5NTk2LCJqdGkiOiIwODVJVXBmUnNjT1Fqb1RFIiwic3ViIjoyODc2NDY2LCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.w1xDhJcTqcXU8t5BrIs6HH-GIOP4U5Oj3-BY1SmGJLU",
+        "Connection": "keep-alive",
+        "Content-Type": "application/json;charset=utf-8",
+        "Host": "gateway.golike.net",
+        "Origin": "https://app.golike.net",
+        "Referer": "https://app.golike.net/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-site",
+        "t": "VFZSamVVNTZhM3BPZW1NeFQxRTlQUT09",
+        "TE": "trailers",
+        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Snapchat/10.77.5.59 (like Safari/604.1)"
+    },
+    "insta_headers": {
+        "authority": "www.instagram.com",
+        "method": "POST",
+        "path": "/graphql/query",
+        "scheme": "https",
+        "accept": "*/*",
+        "accept-language": "us",
+        "content-length": "1303",
+        "content-type": "application/x-www-form-urlencoded",
+        "cookie": "dpr=1.25; ig_nrcb=1; mid=ZwKWggALAAEDrWL7H8N2TSSwzwA9; ig_did=40FB9C01-DC10-49FA-8CC8-156893EB5825; datr=lZYCZxR6Id0TJUE0KwqHC8-p; ds_user_id=65444176476; sessionid=65444176476%3AfJ2yFeRc7q4bDy%3A6%3AAYfjd4HuNL7B82ukA2gfhTaVnup-W5aFlZVca7FjlQ; csrftoken=ep2QzalKQUaJFJm2Kp80gc1xtmdeJyNe; shbid=\"17201\\05465444176476\\0541759759058:01f70e33f8d7daee4e0a336add6591854f7d340ba878a5d71c76b544fd22acd10168d739\"; shbts=\"1728223058\\05465444176476\\0541759759058:01f72eb726945e659cb78b5c01c785bcee35b279615be7f41ba90d13d1c27de0d7bbda15\"; wd=822x746; rur=\"CCO\\05465444176476\\0541759759576:01f762a4308eebbf945a0e9d8b84f0c83a9e8693e93dfef225f653da67d8bb5c00231ef8\"",
+        "origin": "https://www.instagram.com",
+        "priority": "u=1, i",
+        "referer": "https://www.instagram.com/truonhfrus/",
+        "sec-ch-prefers-color-scheme": "dark",
+        "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
+        "sec-ch-ua-full-version-list": "\"Microsoft Edge\";v=\"129.0.2792.79\", \"Not=A?Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"129.0.6668.90\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-ch-ua-platform-version": "\"8.0.0\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+        "x-asbd-id": "129477",
+        "x-bloks-version-id": "d064162f4a1bc5cbc2a7ce44dd98b555613e0264ce1d0ebd6be60a79d3c58f44",
+        "x-csrftoken": "ep2QzalKQUaJFJm2Kp80gc1xtmdeJyNe",
+        "x-fb-friendly-name": "PolarisAPIGetFrCookieQuery",
+        "x-fb-lsd": "gtE021O5IF-2TGA5JwktM8",
+        "x-ig-app-id": "936619743392459"
+      },
+    "insta_follow_payloads": {
+        "av": "17841469559245655",
+        "__d": "www",
+        "__user": "0",
+        "__a": "1",
+        "__req": "22",
+        "__hs": "19999.HYP:instagram_web_pkg.2.1..0.1",
+        "dpr": "1",
+        "__ccg": "UNKNOWN",
+        "__rev": "1017023141",
+        "__s": "4qko6i:p7ocnq:i4baiu",
+        "__hsi": "7421468926897011504",
+        "__dyn": "7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o1DU2_CwjE1xoswaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo31w9a9wtUd8-U2zxe2GewGw9a361qw8Xxm16wUwtEvw5rCwLyESE7i3vwDwHg2ZwrUdUbGwmk0zU8oC1Iwqo5q3e3zhA6bwIDyUrAwCAxW1oCz8rwHwjE7SEy",
+        "__csr": "gH132kn2c5tgx5s9Oi9RshbASGhii4hbQSrnnKSVd96qhfBiryVrTnLAqp5QGLBgCinHVJ8y_GiVkamp3bBJGVX88y4Ah7rpk8AyeQ7bBxipGvAU8oJ-GxaFEpJu9Cqh9KEyECiqmhu-fCwxzUqx200jjt0hS788qhqwpoIE27wlU1v48g1PU37cbwAo9o-4Q1ggShwGwdm07PFJ0da08ewad0gAU9o66hPG4k2e210r84rIE5ABpR20lx62ySqmpo2DzEhxje0N6mkE2Cpo5q1GhUK2V08e9wmo2cwh84I4M-Kfwj8fU5e02VG01cmw1rW",
+        "__comet_req": "7",
+        "fb_dtsg": "NAcMaVzpqfNdw85WUWDU_-mFYIudkks48C3vioXyzW8vt2WAGhrmi5A:17843683195144578:1727945385",
+        "jazoest": "26434",
+        "lsd": "VoKNH81gy4VZlD1--Q4woP",
+        "__spin_r": "1017023141",
+        "__spin_b": "trunk",
+        "__spin_t": "1727945387",
+        "fb_api_caller_class": "RelayModern",
+        "fb_api_req_friendly_name": "usePolarisFollowMutation",
+        "variables": "{\"target_user_id\":\"65635471598\",\"container_module\":\"profile\",\"nav_chain\":\"PolarisFeedRoot:feedPage:1:via_cold_start,PolarisProfilePostsTabRoot:profilePage:2:unexpected\"}",
+        "server_timestamps": "true",
+        "doc_id": "7275591572570580"
+    },
+    "instagram_user_agent": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.3",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.3",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0."
+
+    ],
+    "golike_accounts": {
+        "golike_1": {
+            "insta_id_cookies": {
+                "716662": [
+                    "dpr=1.25; ig_nrcb=1; mid=ZwKWggALAAEDrWL7H8N2TSSwzwA9; ig_did=40FB9C01-DC10-49FA-8CC8-156893EB5825; datr=lZYCZxR6Id0TJUE0KwqHC8-p; ds_user_id=65444176476; sessionid=65444176476%3AfJ2yFeRc7q4bDy%3A6%3AAYfjd4HuNL7B82ukA2gfhTaVnup-W5aFlZVca7FjlQ; csrftoken=ep2QzalKQUaJFJm2Kp80gc1xtmdeJyNe; shbid=\"17201\\05465444176476\\0541759759058:01f70e33f8d7daee4e0a336add6591854f7d340ba878a5d71c76b544fd22acd10168d739\"; shbts=\"1728223058\\05465444176476\\0541759759058:01f72eb726945e659cb78b5c01c785bcee35b279615be7f41ba90d13d1c27de0d7bbda15\"; wd=822x746; rur=\"CCO\\05465444176476\\0541759759349:01f7624091b7abddf669f70743312b89e03d5745cf3d1d6b0d50115e88cf38af6ec33b75\"",
+                    "dpr=1.25; ig_nrcb=1; mid=ZwKWggALAAEDrWL7H8N2TSSwzwA9; ig_did=40FB9C01-DC10-49FA-8CC8-156893EB5825; datr=lZYCZxR6Id0TJUE0KwqHC8-p; ds_user_id=65444176476; sessionid=65444176476%3AfJ2yFeRc7q4bDy%3A6%3AAYfjd4HuNL7B82ukA2gfhTaVnup-W5aFlZVca7FjlQ; csrftoken=ep2QzalKQUaJFJm2Kp80gc1xtmdeJyNe; shbid=\"17201\\05465444176476\\0541759759058:01f70e33f8d7daee4e0a336add6591854f7d340ba878a5d71c76b544fd22acd10168d739\"; shbts=\"1728223058\\05465444176476\\0541759759058:01f72eb726945e659cb78b5c01c785bcee35b279615be7f41ba90d13d1c27de0d7bbda15\"; wd=822x746; rur=\"CCO\\05465444176476\\0541759759443:01f7be37a15c08464b616afacd2ea191853993278aebc55e77a45a8b785dd38bebf1bd3a\"",
+                    "dpr=1.25; ig_nrcb=1; mid=ZwKWggALAAEDrWL7H8N2TSSwzwA9; ig_did=40FB9C01-DC10-49FA-8CC8-156893EB5825; datr=lZYCZxR6Id0TJUE0KwqHC8-p; ds_user_id=65444176476; sessionid=65444176476%3AfJ2yFeRc7q4bDy%3A6%3AAYfjd4HuNL7B82ukA2gfhTaVnup-W5aFlZVca7FjlQ; csrftoken=ep2QzalKQUaJFJm2Kp80gc1xtmdeJyNe; shbid=\"17201\\05465444176476\\0541759759058:01f70e33f8d7daee4e0a336add6591854f7d340ba878a5d71c76b544fd22acd10168d739\"; shbts=\"1728223058\\05465444176476\\0541759759058:01f72eb726945e659cb78b5c01c785bcee35b279615be7f41ba90d13d1c27de0d7bbda15\"; wd=822x746; rur=\"CCO\\05465444176476\\0541759759519:01f77d4393a20cfb63a237fbbf553ae2b7c6524432719b98e728f37da710e08227806bbc\"",
+                    "dpr=1.25; ig_nrcb=1; mid=ZwKWggALAAEDrWL7H8N2TSSwzwA9; ig_did=40FB9C01-DC10-49FA-8CC8-156893EB5825; datr=lZYCZxR6Id0TJUE0KwqHC8-p; ds_user_id=65444176476; sessionid=65444176476%3AfJ2yFeRc7q4bDy%3A6%3AAYfjd4HuNL7B82ukA2gfhTaVnup-W5aFlZVca7FjlQ; csrftoken=ep2QzalKQUaJFJm2Kp80gc1xtmdeJyNe; shbid=\"17201\\05465444176476\\0541759759058:01f70e33f8d7daee4e0a336add6591854f7d340ba878a5d71c76b544fd22acd10168d739\"; shbts=\"1728223058\\05465444176476\\0541759759058:01f72eb726945e659cb78b5c01c785bcee35b279615be7f41ba90d13d1c27de0d7bbda15\"; wd=822x746; rur=\"CCO\\05465444176476\\0541759759916:01f70adad53d9b2df53c068990c4b8595b22faba2e9176d05cf030619093a7f3bd1df63f\"",
+                    "dpr=1.25; ig_nrcb=1; mid=ZwKWggALAAEDrWL7H8N2TSSwzwA9; ig_did=40FB9C01-DC10-49FA-8CC8-156893EB5825; datr=lZYCZxR6Id0TJUE0KwqHC8-p; ds_user_id=65444176476; sessionid=65444176476%3AfJ2yFeRc7q4bDy%3A6%3AAYfjd4HuNL7B82ukA2gfhTaVnup-W5aFlZVca7FjlQ; csrftoken=ep2QzalKQUaJFJm2Kp80gc1xtmdeJyNe; shbid=\"17201\\05465444176476\\0541759759058:01f70e33f8d7daee4e0a336add6591854f7d340ba878a5d71c76b544fd22acd10168d739\"; shbts=\"1728223058\\05465444176476\\0541759759058:01f72eb726945e659cb78b5c01c785bcee35b279615be7f41ba90d13d1c27de0d7bbda15\"; wd=822x746; rur=\"CCO\\05465444176476\\0541759760110:01f73778dbe279e226789444e6c8886698e4fa14f8e6e841571de6e8e623c9dd1dc7214d\""
+                ],
+                "715693": [
+                    "dpr=1.25; mid=ZwDx0gALAAHf31sOV_BZT-79cnVC; datr=0vEAZwDvmdaUchRRy_3mG7bs; ig_did=926EE554-A018-4880-B81C-0EB08CE4C3E6; ds_user_id=69338537538; sessionid=69338537538%3AwDBf6tXVLtfzBA%3A28%3AAYdFKvaSUhQ-FrztR_PHu6F900DS1c5RrQrkT_A-ng; ps_l=1; ps_n=1; csrftoken=ip43XxAgmWKv1CplvLx4vfzUfPFJWtRv; wd=822x746; rur=\"EAG\\05469338537538\\0541759651231:01f726be5f0236c8c6c8178ac3372a40c488f25ed457b08b4c4fb1ae0feb8073ea206358\"",
+                    "dpr=1.25; mid=ZwDx0gALAAHf31sOV_BZT-79cnVC; datr=0vEAZwDvmdaUchRRy_3mG7bs; ig_did=926EE554-A018-4880-B81C-0EB08CE4C3E6; ds_user_id=69338537538; sessionid=69338537538%3AwDBf6tXVLtfzBA%3A28%3AAYdFKvaSUhQ-FrztR_PHu6F900DS1c5RrQrkT_A-ng; ps_l=1; ps_n=1; csrftoken=ip43XxAgmWKv1CplvLx4vfzUfPFJWtRv; wd=822x746; rur=\"EAG\\05469338537538\\0541759651230:01f78f851163e7f43ed277262f9bf0c74e5ebe150152f6f7ad04f59c18d9c4eae78798cd\"",
+                    "dpr=1.25; mid=ZwDx0gALAAHf31sOV_BZT-79cnVC; datr=0vEAZwDvmdaUchRRy_3mG7bs; ig_did=926EE554-A018-4880-B81C-0EB08CE4C3E6; ds_user_id=69338537538; sessionid=69338537538%3AwDBf6tXVLtfzBA%3A28%3AAYdFKvaSUhQ-FrztR_PHu6F900DS1c5RrQrkT_A-ng; ps_l=1; ps_n=1; csrftoken=ip43XxAgmWKv1CplvLx4vfzUfPFJWtRv; wd=822x746; rur=\"EAG\\05469338537538\\0541759651228:01f76bbd337ead36ed70e080cac5d3df4cf2e4cec262df0345a33ea6a9798cdb6f7b4590\"",
+                    "dpr=1.25; mid=ZwDx0gALAAHf31sOV_BZT-79cnVC; datr=0vEAZwDvmdaUchRRy_3mG7bs; ig_did=926EE554-A018-4880-B81C-0EB08CE4C3E6; ds_user_id=69338537538; sessionid=69338537538%3AwDBf6tXVLtfzBA%3A28%3AAYdFKvaSUhQ-FrztR_PHu6F900DS1c5RrQrkT_A-ng; ps_l=1; ps_n=1; csrftoken=ip43XxAgmWKv1CplvLx4vfzUfPFJWtRv; wd=822x746; rur=\"EAG\\05469338537538\\0541759651399:01f78a174fde812ca0f89351950a4ec543c9a967a36b308f9538eb5b81e3b0eedc52b0c8\""
+                ]
+            },
+            "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3Mjc5Mjk1OTYsImV4cCI6MTc1OTQ2NTU5NiwibmJmIjoxNzI3OTI5NTk2LCJqdGkiOiIwODVJVXBmUnNjT1Fqb1RFIiwic3ViIjoyODc2NDY2LCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.w1xDhJcTqcXU8t5BrIs6HH-GIOP4U5Oj3-BY1SmGJLU"
+        },
+        "golike_2": {
+
+        }
+    },
+    "timeout": [30, 120]
+}
